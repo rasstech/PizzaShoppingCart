@@ -1,0 +1,59 @@
+{
+"results": [
+{
+  "name": "Pizza",
+  "image": "https://res.cloudinary.com/dm64gdjus/image/upload/v1616171483/food/pizza_header_hap76j.webp",
+  "subItemsData": {
+  "name": "Tasty Pizzas",
+  "subItems": [
+{
+  "name": "Tomato Basil Italian Pizza",
+  "image": "https://res.cloudinary.com/dm64gdjus/image/upload/v1616171483/food/pizza_header_hap76j.webp",
+  "price": "450",
+  "description": "Dressed with oil, the origanum and garlic cloves"
+},
+{
+  "name": "Bombay Pizza",
+  "image": "https://res.cloudinary.com/dm64gdjus/image/upload/v1616171483/food/pizza_header_hap76j.webp",
+  "price": "550"
+
+},
+{
+"name": "Sicilia Pizza",
+"image": "image-url",
+"price": "450"
+
+  }
+ ]
+ }
+ },
+
+ {
+"name": "Burger",
+"image": "https://res.cloudinary.com/dm64gdjus/image/upload/v1616171493/food/burger_header_axvjqx.jpg",
+"subItemsData": {
+"name": "Crispy Burgers",
+"subItems": [
+{
+"name": "Fried Chicken Burger",
+"image": "image-url",
+"price": "450",
+"description": "Old School Chicken Burger"
+},
+{
+"name": "Paneer Tikka Burger",
+"image": "image-url",
+"price": "450",
+"description": "Spicy Paneer, Onion, Tomato, Mozerella Cheese"
+},
+{
+"name": "Chicken Classic Cheese Burger",
+"image": "image-url",
+"price": "550",
+"description": "Aged cheddar, sweet pickle, tomato, red onion"
+ }
+]
+}
+}
+]
+}
